@@ -1,4 +1,4 @@
-# My Internship Interview Experience (7th Semester)
+# My 7th Semester Internship Hunt Experience - 2025
 
 Hello — I'm Farhan Tausif, a Software Engineering student at the University of Dhaka. This repository collects my 7th‑semester internship hunt: interview writeups (converted from PDFs), preparation notes, and useful links to help others preparing for internships.
 
