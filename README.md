@@ -1,6 +1,6 @@
 # My 7th Semester Internship Hunt Experience - 2025
 
-Hello — I'm Farhan Tausif, a Software Engineering student at the University of Dhaka. This repository collects my 7th‑semester internship hunt: interview writeups (converted from PDFs), preparation notes, and useful links to help others preparing for internships.
+This repository collects my 7th‑semester internship hunt: interview writeups, preparation notes, and useful links to help others preparing for internships.
 
 **Application timeline:** July–August 2025  
 **Current status:** Joined **DSi (Dynamic Solution Innovators)** as a Junior Software Engineer Intern.
