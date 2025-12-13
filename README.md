@@ -1,6 +1,6 @@
 # My 7th Semester Internship Hunt Experience - 2025
 
-This repository collects my 7th‑semester internship hunt: interview writeups, preparation notes, and useful links to help others preparing for internships.
+This repository documents my 7th‑semester internship hunt, including interview writeups, written test experiences, preparation notes, and curated links to help others prepare for internships. It also includes CV/resume-building guide and template.
 
 **Application timeline:** July–August 2025  
 **Current status:** Joined **DSi (Dynamic Solution Innovators)** as a Junior Software Engineer Intern.
