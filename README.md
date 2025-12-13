@@ -11,11 +11,11 @@ This repository collects my 7th‑semester internship hunt: interview writeups, 
 - Curated test‑prep links for algorithm, SQL, and company‑specific questions
 
 ## Resume Resources
-- **Resume Building Guide:** [A great guide for building a tech resume](https://drive.google.com/drive/folders/1iJnYuPh61bEtS5SxPwl_q3hPYL6kcroT?usp=sharing)
-- **My CV:** See the `Sample_CV/` folder in this repo.
+- **Resume Building Guide:** [Let's Build a Professional Resume](https://drive.google.com/drive/folders/1iJnYuPh61bEtS5SxPwl_q3hPYL6kcroT?usp=sharing)
+- **My CV:** Available in the `Sample_CV/` folder of this repository.
 
 ## Interview Experiences
-Converted markdown interview reports are in `Experiences/` for easier reading and searching.
+Available in the `Experiences/` folder of this repository.
 
 ## Test Preparation Resources
 ### Problem Solving & SQL
@@ -27,14 +27,16 @@ Converted markdown interview reports are in `Experiences/` for easier reading an
 - **Star Coder 2024 FAQ:** [Sample questions from Star Coder 2024](https://www.scribd.com/document/748420219/FAQ-Sample-Question-Star-Coder-2024)
 - **Brain Station 23 Questions:** [A collection of questions from Brain Station 23 interviews](https://www.scribd.com/document/719031676/brain-station-23-question)
 
-### Company-Specific Preparation
+### Company-Specific Preparation (Most Important, Must Read before applying)
 - **Interview Questions Bangladesh:** [A collection of interview questions from Bangladeshi tech companies](https://tamimehsan.github.io/interview-questions-bangladesh/)
 
 ## Quick Tips
 - Start with the Blind 75 for algorithms and the Top SQL 50 for database practice.
-- Read the interview markdowns to see question formats and timelines.
+- Read the interview markdowns to get an idea of question formats and timelines.
 - Use the resume in `Sample_CV/` as a template and adapt it to each application.
-
+- Focus on company-specific preparation resources for targeted practice.
 ---
 
-If you find this repo helpful, please consider leaving a star on it — it helps me decide what to publish next. Thank you! ⭐
+If you find this repo helpful, please consider leaving a star on it — it helps me decide what to publish next. 
+
+Thank you! ⭐
