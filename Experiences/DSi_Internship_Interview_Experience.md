@@ -1,6 +1,6 @@
 # DSi Internship Interview Experience
 
-This document outlines the questions and topics discussed during an internship interview at DSi.
+This document outlines the questions and topics discussed during my internship interview at DSi.
 
 ## Personal and Project-Based Questions
 
@@ -11,7 +11,7 @@ This document outlines the questions and topics discussed during an internship i
 *   **Areas of Interest:** "Which fields are you most interested in?"
 *   **Exciting Fields:** "What field do you find most exciting?"
 *   **Favorite Courses:** "What are your favorite academic courses?"
-    *   My answer: Software System Design.
+    *   *My answer:* Software System Design.
     This answer leads to the following array of questions. 
 
 ## Technical Questions
@@ -23,7 +23,7 @@ This document outlines the questions and topics discussed during an internship i
 *   **Rate Limiting:** "What is rate limiting?"
 *   **Nginx:** "What is the difference between a reverse proxy and a forward proxy in Nginx?"
 *   **Rate Limiting Implementation:** "Have you ever implemented rate limiting yourself?"
-    *   My answer: "No, I have used Nginx's built-in rate limiting. However, I am aware of several algorithms like Leaky Bucket, Sliding Window Log, and Sliding Window Counter."
+    *   *My answer:* "No, I have used Nginx's built-in rate limiting. However, I am aware of several algorithms like Leaky Bucket, Sliding Window Log, and Sliding Window Counter."
 
 ### Databases
 
@@ -55,3 +55,9 @@ This document outlines the questions and topics discussed during an internship i
 
 *   **Candle Puzzle:** "You have two candles that each burn for exactly one hour, but they burn unevenly. How can you measure 45 minutes using these two candles?"
 *   **Ball Puzzle:** "You have 8 balls, one of which has a different weight. Using a balance scale (without any weights), what is the minimum number of weighings required to find the unique ball?"
+
+### *Medium of Interview*
+The interview was conducted in **Bangla**.
+
+### *Interview Duration*
+The interview lasted for approximately **One hour**.

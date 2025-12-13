@@ -30,3 +30,8 @@ This document outlines the questions and topics discussed during an internship i
     *   Which data structure would you use and why?
     *   What would be the approximate size of the data structure?
 
+### *Medium of Interview*
+The interview was conducted in **Bangla**.
+
+### *Interview Duration*
+The interview lasted for approximately **Half an hour**.

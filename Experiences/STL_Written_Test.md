@@ -2,7 +2,10 @@
 
 This document outlines the questions from the Streams Tech Ltd. Internship Test 2025, covering various topics in computer science.
 
-## Section 1: Problem Solving and Algorithms
+## Test Structure
+The test consists of the following sections:
+
+### **Section 1: Problem Solving and Algorithms**
 
 1.  **Unique Number:** You are given a list of 10 numbers where each number appears twice, except for one. How do you find the unique number?
 
@@ -25,7 +28,7 @@ This document outlines the questions from the Streams Tech Ltd. Internship Test 
     }
     ```
 
-## Section 2: Programming Concepts
+### **Section 2: Programming Concepts**
 
 1.  **Output Prediction:** What is the output of the following code?
     ```java
@@ -47,7 +50,7 @@ This document outlines the questions from the Streams Tech Ltd. Internship Test 
             return n * factorial(n - 1)
     ```
 
-## Section 3: Object-Oriented Programming (OOP)
+### **Section 3: Object-Oriented Programming (OOP)**
 
 1.  **Dynamic Dispatch:** What is the output of the following Java code that demonstrates dynamic dispatch?
     ```java
@@ -81,7 +84,7 @@ This document outlines the questions from the Streams Tech Ltd. Internship Test 
     *   Why are constructors used?
     *   Write an example of a `Student` constructor with `name` and `ID` as attributes.
 
-## Section 4: Software Engineering and Databases
+### **Section 4: Software Engineering and Databases**
 
 1.  **Networking:**
     *   Why is TCP/IP used?
@@ -96,3 +99,9 @@ This document outlines the questions from the Streams Tech Ltd. Internship Test 
 5.  **SQL Joins:**
     *   Explain the difference between a `LEFT JOIN` and an `INNER JOIN` with an example.
     *   Write a SQL query to find all artists who do not have any albums. You are given two tables: `artists` (`artist_id`, `name`) and `albums` (`artist_id`, `album_id`, `title`).
+
+### *Test Format (Written)*
+The test is conducted in a written format, consisting of multiple sections that assess problem-solving skills, programming concepts, object-oriented programming (OOP), and database knowledge.
+
+### *Test Duration*
+The test lasts for **2 hours**.

@@ -1,6 +1,6 @@
 # LEADS Internship Interview Experience
 
-This document outlines the questions and topics discussed during an internship interview at LEADS Corporation Limited. The interview was heavily based on the information provided in my resume.
+This document outlines the questions and topics discussed during my internship interview at LEADS Corporation Limited. The interview was heavily based on the information provided in my resume.
 
 ## Design Patterns
 
@@ -27,3 +27,10 @@ This document outlines the questions and topics discussed during an internship i
 
 *   **Parallel Programming:** "What is parallel programming?"
 *   **Clean Architecture:** "Can you explain the principles of Clean Architecture?"
+---
+
+### *Medium of Interview* 
+The interview was conducted in **Bangla**.
+
+### *Interview Duration*
+The interview lasted for approximately **Half an hour**.

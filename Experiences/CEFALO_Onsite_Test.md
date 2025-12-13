@@ -12,3 +12,6 @@
 
 *   Achieve LeetCode Medium level problem-solving proficiency.
 *   Having a Competitive Programming (CP) background is a plus.
+
+## Test Duration
+The test lasts for **2 hours**.

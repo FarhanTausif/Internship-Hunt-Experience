@@ -10,3 +10,10 @@ To prepare for the BS23 onsite test, refer to the following resources:
 ## Test Format
 
 The test is conducted on Brain Station 23's proprietary IDE platform.
+
+## Test Duration
+The onsite test lasts for **2 hours**.
+
+## Test Structure
+
+The test consists of **9 coding problems** and MCQs(Multiple Choice Questions) on various topics.
