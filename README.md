@@ -1,3 +1,5 @@
+
+
 # My 7th Semester Internship Hunt Experience - 2025
 
 This repository documents my 7th‑semester internship hunt, including interview writeups, written test experiences, preparation notes, and curated links to help others prepare for internships. It also includes CV/resume-building guide and template.
@@ -19,7 +21,7 @@ Available in the `Experiences/` folder of this repository.
 
 ## Test Preparation Resources
 ### Problem Solving & SQL
-- **Blind 75 (NeetCode):** [A curated list of 75 essential LeetCode problems](https://neetcode.io/practice/practice/blind75)
+- **Blind 75 (NeetCode):** [A curated list of 75 essential LeetCode problems](https://neetcode.io/practice/blind75)
 - **Top SQL 50 (LeetCode):** [A study plan for common SQL problems](https://leetcode.com/studyplan/top-sql-50/)
 
 ### General Preparation & Notes
