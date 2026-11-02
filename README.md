@@ -13,6 +13,7 @@ This repository documents my 7th‑semester internship hunt, including interview
 ## Resume Resources
 - **Resume Building Guide:** [Let's Build a Professional Resume](https://drive.google.com/drive/folders/1iJnYuPh61bEtS5SxPwl_q3hPYL6kcroT?usp=sharing)
 - **My CV:** Available in the `Sample_CV/` folder of this repository.
+- **JobEmerge:** [AI career copilot](https://www.jobemerge.work) with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
 
 ## Interview Experiences
 Available in the `Experiences/` folder of this repository.
